@@ -23,6 +23,12 @@
     font-family: Verdana;
 }
 
+.paragraphBg {
+    text-align: center;
+    font-family: Verdana;
+    background-color: rgba(19, 15, 14, 0.3);
+}
+
 .center {
     display: block;
     margin-left: auto;
